@@ -37,7 +37,7 @@ Contributions, dedications, photos, and stories about Hemp or other border colli
 
 ## License
 
-Currently, there is no license attached to the repository. For questions about sharing or contributing, please create an issue.
+This project is open-source under the MIT License.
 
 ---
 
