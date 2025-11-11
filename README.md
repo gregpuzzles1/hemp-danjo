@@ -1,37 +1,44 @@
-# Hemp Danjo - Tribute to Hemp
+# hemp-danjo
 
-A Pygame tribute game to honor Hemp, the ultimate fetch champion.
+A loving tribute to Hemp, our living border collie.  
+This repository ("Hemp tribute in danjo") celebrates Hemp through creative coding, giving Border Collie fans and pet lovers a unique place to remember, explore, and contribute in honor of an amazing companion.
 
-## How to Play
+## Project Structure
 
-- Watch as a tennis ball bounces around.
-- Uplifting tribute messages about Hemp will display at the top.
-- Press Enter (in the terminal) to quit.
+- `hemp-danjo.py`: Main Python script for the tribute project.
+- `requirements.txt`: Lists the Python dependencies.
+- `assets/`: Directory reserved for images or other asset files relevant to Hemp or the project.
 
-## Running the Project
+## Getting Started
 
-1. Install Python 3.8+.
-2. Install requirements:
-    ```
-    pip install -r requirements.txt
-    ```
-3. Make sure you have your `assets/Tennis_ball.svg` in place.
-4. Run the game:
-    ```
-    python hemp_danjo.py
-    ```
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/gregpuzzles1/hemp-danjo.git
+   cd hemp-danjo
+   ```
 
-## Project structure
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```
-hemp-danjo/
-├── assets/
-│   └── Tennis_ball.svg
-├── hemp_danjo.py
-├── requirements.txt
-└── README.md
-```
+3. **Run the project**
+   ```bash
+   python hemp-danjo.py
+   ```
 
-## Credits
+## About Hemp
 
-- `Tennis_ball.svg` [add attribution if you did not create the image]
+Hemp is a beloved border collie whose energy, intelligence, and personality inspire the creation and content of this project. This repository aims to preserve special moments and celebrate the joy he brings.
+
+## Contributing
+
+Contributions, dedications, photos, and stories about Hemp or other border collies are warmly welcomed! Please submit issues or pull requests if you’d like to make the tribute richer.
+
+## License
+
+Currently, there is no license attached to the repository. For questions about sharing or contributing, please create an issue.
+
+---
+
+Visit the repo: [gregpuzzles1/hemp-danjo](https://github.com/gregpuzzles1/hemp-danjo)
